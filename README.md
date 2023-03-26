@@ -6,4 +6,4 @@
 
 <h3> Screenshot </h3>
 
-![](HAVA DURUMU.gif)
+![](havadurumu.gif)
